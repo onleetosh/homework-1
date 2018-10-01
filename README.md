@@ -3,6 +3,8 @@
 This homework assignment covers the content that we discussed in class up until and including February 5.
 
 
+Hello World
+
 ## GitHub
 
 We will exlusively use GitHub for all assignments in this class. Therefore (and because it is broadly used in industry), you should familiarize yourself with GitHub and its features.
