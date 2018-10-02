@@ -39,7 +39,7 @@ Then click the pencil icon to edit it:
 
 ![Edit button](./images/edit.png)
 
-Next, edit this line to add your name: **Your Name**
+Next, edit this line to add your name: Tashi Thompson 
 
 Click the "Preview changes" tab to see your changes.
 
