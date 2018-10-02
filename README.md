@@ -56,7 +56,7 @@ You should now see your name above (instead of "Your Name"). You can also see yo
 
 Please sign up for LinkedIn and share your LinkedIn profile URL here. If you do not wish to be a member of LinkedIn, please write "I decline.":
 
-[My LinkedIn Profile](https://www.linkedin.com/in/.../)
+[My LinkedIn Profile](https://www.linkedin.com/in/tashi-thompson-9b266216b/)
 
 
 ### 5. Setup GitHub Pages
