@@ -206,10 +206,10 @@ AChecker: https://achecker.ca/checker/index.php
 ### 19. head / body
 
 What is the `<head>` tag for?
-Displays the title only
+`<head>` displays the title only
 
 What is the `<body>` tag for?
-Displays the information contained in the document.
+`<body>` displays the information contained in the document.
 
 ### 20. Head…
 
@@ -219,7 +219,7 @@ What's the difference between `<head>`, `<header>`, and heading tags?
 
 ### 21. Tables
 
-What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? `<table>` `<tr>` `<th>` `<td>`
+What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? `<table>` `<tr>` `<th>` `<td>``<thead>``<tbody>` `<tfooter>` 
 
 
 ### 22. Non-closing tags
@@ -236,9 +236,9 @@ How do you make a link open in a new window?
 
 ### 24. IFRAME
 
-What is an IFRAME?
+What is an IFRAME? IFRAME displays a smaller view on top of the current view. 
 
-What are IFRAMEs commonly used for?
+What are IFRAMEs commonly used for? It is used to display a webpage within a webpage. For example, embedding a youtube video into a web page.
 
 
 ## Writing Code
