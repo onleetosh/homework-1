@@ -124,7 +124,7 @@ Please edit this file to add your answers to the following questions.
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS? The S in HTTPS stands Secure 
+What does the S stand for in HTTPS? The S in HTTPS stands for secure 
 
 Why is HTTPS better than HTTP? HTTPS provides an extra layer of security because it uses SSL to move data
 
