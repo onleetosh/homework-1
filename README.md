@@ -150,21 +150,24 @@ I like visiting Travis Scott's webpage, https://travisscott.com/. The page desig
 
 ### 12. Website I don’t like
 
-I am not a fan of Marshalls website, https://www.marshalls.com/. There is a ton of important information but it lacks a online shopping experience. For example when I shop on Zara, I am about to search for different styles of clothing and order things from there website. Marshalls website has no shopping experience, the design is boring, and the main focus is informative. The only way too know what in stock is to visit a store, which is an inconvenience for online shoppers. 
+I am not a fan of Marshalls website, https://www.marshalls.com/. There is a ton of information related to Marshall but none of answers my qustion, "What's do department stores have in stock." For example when I shop on Zara, I am about to search for different styles of clothing and order things from there website. Marshalls website has no shopping experience, the design is boring, and the main focus is informative. The only way too know what in stock is to visit a store, which is an inconvenience for online shoppers. 
 
 
 ### 13. Resources
 
-Where is a good place to look for information about HTML tags?
+https://www.w3schools.com/tags/ref_byfunc.asp is a good place to look for information about HTML tags.
 
 
 ### 14. HTML Versions
 
 Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+The version of HTML we are covering in class is HTML5. The DOCTYPE tag is the declaration for HTML5
 
 What is XML?
+XML stands for Extensible Markup Language; it is a markup language similar to HTML designed to be self-descriptive, store and transport data.
 
 What is XHTML?
+XHTML stands for Extensible Hypertext Markup Language similar to HTML but more strict; it is defined as an XML application and is supported by all major browsers. 
 
 
 ### 15. HTML
