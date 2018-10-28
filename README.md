@@ -146,7 +146,7 @@ A webpage is a structured document that uses Hypertext Markup Language to displa
 
 ### 11. Webpage I like
 
-I like Travis Scott's webpage, https://travisscott.com/. The design is simple but the animated visuals and style is captivating. I like the placement of Shop, Tour, Music, and Video in the corner of the webpage because its different and it makes the visuals stand out more.
+I like visiting Travis Scott's webpage, https://travisscott.com/. The page design is simple yet creative and similar to his music. I like the placement of Shop, Tour, Music, and Video in the corner of the webpage because its different and puts more focus on the visuals. The animated visuals is cool, the rotating head in the center is captivating. 
 
 ### 12. Website I don’t like
 
