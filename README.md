@@ -206,14 +206,15 @@ AChecker: https://achecker.ca/checker/index.php
 ### 19. head / body
 
 What is the `<head>` tag for?
-The <head> tag displays the title only
+Displays the title only
 
 What is the `<body>` tag for?
-The <body> tag displays the information contained in the document.
+Displays the information contained in the document.
 
 ### 20. Head…
 
 What's the difference between `<head>`, `<header>`, and heading tags?
+The head tag is used for meta data and the header tag is used for actual content
 
 
 ### 21. Tables
