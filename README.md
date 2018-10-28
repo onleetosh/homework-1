@@ -141,7 +141,7 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 10. What is a webpage?
 
-*Your answer here.*
+A webpage is a structured document that uses Hypertext Markup Language to display information onto the world wide web when connected. 
 
 
 ### 11. Webpage I like
