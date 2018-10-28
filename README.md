@@ -173,35 +173,43 @@ XHTML stands for Extensible Hypertext Markup Language similar to HTML but more s
 ### 15. HTML
 
 Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
+Web pages are considered text files.  
 
 Are HTML files interpreted or executed?
+HTML files are interpreted.
 
 
 ### 16. Browser versioning
 
 Which versions of Microsoft Internet Explorer support the `<nav>` tag?
+Version 9 and higher 
 
 
 ### 17. HTML Validity
 
-What is one tool that can tell you if you have written valid HTML?
+What is one tool that can tell you if you have written valid HTML? 
+A web browser
 
 
 ### 18. Accessibility
 
 What does "Accessibility" mean in the context of web development?
+In the context of web development, "Acessibility" means everyone is able to access, nagivate and use websites or web tools; the goal is to produce a high-quality product that does not exclude anyone from usage, including people with disabilites and old people. 
+
 
 What types of people does accessibility concern?
+People with disabilities and old people. 
 
 What is one tool you can use to verify the accessibility of your websites?
-
+AChecker: https://achecker.ca/checker/index.php
 
 ### 19. head / body
 
 What is the `<head>` tag for?
+The <head> tag displays the title only
 
 What is the `<body>` tag for?
-
+The <body> tag displays the information contained in the document.
 
 ### 20. Head…
 
