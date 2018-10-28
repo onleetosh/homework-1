@@ -214,23 +214,25 @@ Displays the information contained in the document.
 ### 20. Head…
 
 What's the difference between `<head>`, `<header>`, and heading tags?
-'<head>' is used for meta data. '<header>'  is used for actual content
+`<head>`is used for meta data. `<header>`  is used for actual content
 
 
 ### 21. Tables
 
-What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? '<table>' '<tr>' '<th>' '<td>'
+What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? `<table>` `<tr>` `<th>` `<td>`
 
 
 ### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?
-'<br>' '<hr>' '<img>' '<area>' '<base>' '<input>' '<link>' '<param>' '<source>'
+`<br>` `<hr>` `<img>` `<area>` `<base>` `<input>` `<link>` `<source>`  
+
 
 ### 23. Links
 
 How do you make a link open in a new window?
-'<a href="url"> link name </a>'
+`<a href="url> link name </a>` 
+
 
 ### 24. IFRAME
 
