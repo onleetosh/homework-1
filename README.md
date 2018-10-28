@@ -97,7 +97,7 @@ Please edit this file to add your answers to the following questions.
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
 * What is the scheme/protocol?  http
-* What is the host?   localhost:4000
+* What is the host?   localhost
 * What is the port number?   4000
 * What is the path?    /admin
 * What are the query parameters?   no parameters 
