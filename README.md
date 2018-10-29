@@ -146,7 +146,7 @@ A webpage is a structured document that uses Hypertext Markup Language to displa
 
 ### 11. Webpage I like
 
-I like visiting Travis Scott's webpage, https://travisscott.com/. The page design is simple yet creative and similar to his music. I like the placement of Shop, Tour, Music, and Video in the corner of the webpage because its different and puts more focus on the visuals. The animated visuals is cool and the rotating head in the center is captivating. 
+I like Travis Scott's webpage, https://travisscott.com/. The page design is simple yet creative and similar to his music. I like the placement of Shop, Tour, Music, and Video in the corner of the webpage because its different and puts more focus on the visuals. The animated visuals is cool and the rotating head in the center is captivating. 
 
 ### 12. Website I don’t like
 
@@ -219,13 +219,13 @@ What's the difference between `<head>`, `<header>`, and heading tags?
 
 ### 21. Tables
 
-What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? `<table>` `<tr>` `<th>` `<td>``<thead>``<tbody>` `<tfooter>` 
+What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? `<table>`, `<tr>`, `<th>`, `<td>``<thead>`, `<tbody>`, `<tfooter>`,  `<caption>`, `<colgroup>`
 
 
 ### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?
-`<br>` `<hr>` `<img>` `<area>` `<base>` `<input>` `<link>` `<source>`  
+`<br>`, `<hr>`, `<img>`, `<area>`, `<base>`, `<input>`, `<link>`, `<source>`, `<col>`
 
 
 ### 23. Links
