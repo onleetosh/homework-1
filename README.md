@@ -206,10 +206,10 @@ AChecker: https://achecker.ca/checker/index.php
 ### 19. head / body
 
 What is the `<head>` tag for?
-`<head>` displays the title only
+`<head>` displays the document title only
 
 What is the `<body>` tag for?
-`<body>` displays the information contained in the document.
+`<body>` displays the information contained in a document.
 
 ### 20. Head…
 
@@ -236,7 +236,7 @@ How do you make a link open in a new window?
 
 ### 24. IFRAME
 
-What is an IFRAME? IFRAME displays a smaller view on top of the current view. 
+What is an IFRAME? IFRAME displays a small view inside of the current view. 
 
 What are IFRAMEs commonly used for? It is used to display a webpage within a webpage. For example, embedding a youtube video into a web page.
 
