@@ -100,8 +100,8 @@ Please edit this file to add your answers to the following questions.
 * What is the host?   localhost
 * What is the port number?   4000
 * What is the path?    /admin
-* What are the query parameters?   no parameters 
-* What is the fragment?   no fragment
+* What are the query parameters?   none 
+* What is the fragment?   none
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
@@ -109,8 +109,8 @@ Please edit this file to add your answers to the following questions.
 * What is the host?  www.lehman.edu
 * What is the port number?  80
 * What is the path?   /academics/mathematics-computer-science/index.php
-* What are the query parameters?   no parameters
-* What is the fragment?   no fragment   
+* What are the query parameters?   none
+* What is the fragment?   none   
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
@@ -118,7 +118,7 @@ Please edit this file to add your answers to the following questions.
 * What is the host?   en.wikipedia.org
 * What is the port number? 443
 * What is the path?  /wiki/Greek_alphabet
-* What are the query parameters? no parameters
+* What are the query parameters? none
 * What is the fragment?  #Glyph_variants
 
 
@@ -150,7 +150,7 @@ I like Travis Scott's webpage, https://travisscott.com/. The page design is simp
 
 ### 12. Website I don’t like
 
-I am not a fan of Marshalls website, https://www.marshalls.com/. There is a ton of information related to Marshall but none of answers my qustion, "What's do department stores have in stock." For example when I shop on Zara, I am about to search for different styles of clothing and order things from there website. Marshalls website has no shopping experience, the design is boring, and the main focus is informative. The only way too know what in stock is to visit a store, which is an inconvenience for online shoppers. 
+I am not a fan of Marshalls website, https://www.marshalls.com/. There is a ton of information related to Marshall but none of answers my qustion, "What's do department stores have in stock?" For example when I shop on website Zara, I am about to search for different styles of clothing and order things from there website. Marshalls website has no shopping experience, the design is boring, and the main focus is informative. The only way too know what in stock is to visit a store, which is an inconvenience for online shoppers. 
 
 
 ### 13. Resources
