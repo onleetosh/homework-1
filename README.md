@@ -270,6 +270,7 @@ Please modify the [bugs.html](bugs.html) file in this repository to fix the erro
 ### 28. Pace check
 
 Class is going… too slow / just right / too fast.
+Just right 
 
 
 ### 29. Jobs
