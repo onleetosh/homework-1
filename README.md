@@ -219,7 +219,7 @@ What's the difference between `<head>`, `<header>`, and heading tags?
 
 ### 21. Tables
 
-What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? `<table>`, `<tr>`, `<th>`, `<td>``<thead>`, `<tbody>`, `<tfooter>`,  `<caption>`, `<colgroup>`
+What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)? `<table>`, `<tr>`, `<th>`, `<td>`, `<thead>`, `<tbody>`, `<tfooter>`,  `<caption>`, `<colgroup>`
 
 
 ### 22. Non-closing tags
